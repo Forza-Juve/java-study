@@ -1,0 +1,7 @@
+package Chapter06.LambdaDemo;
+
+@FunctionalInterface
+public interface Calculator {
+    int calculate(int a,int b);
+
+}
