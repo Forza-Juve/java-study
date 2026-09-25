@@ -29,4 +29,6 @@ public class EmployeeRoster {
     public int size(){
         return employees.size();
     }
+
+    public void addAll(List<String> names){}
 }
